@@ -8,8 +8,6 @@
 import SwiftUI
 
 struct CreateAccountView: View {
-   
-    
     var body: some View {
         ZStack() {
             Color("BACKGROUND").ignoresSafeArea()
@@ -30,7 +28,7 @@ struct CreateAccountView: View {
                 
                 Text("Track your statement and account balance")
                     .font(.system(size: 16, weight: .regular, design: .default))
-                    
+               
                 CustomModal()
             }
         }

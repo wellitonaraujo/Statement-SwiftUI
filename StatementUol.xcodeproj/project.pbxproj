@@ -7,6 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F90B2E252B7426A7009FA07D /* Mulish-VariableFont_wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F90B2E232B7426A7009FA07D /* Mulish-VariableFont_wght.ttf */; };
+		F90B2E262B7426A7009FA07D /* Mulish-Italic-VariableFont_wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F90B2E242B7426A7009FA07D /* Mulish-Italic-VariableFont_wght.ttf */; };
+		F90B2E372B7426C4009FA07D /* Mulish-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F90B2E272B7426C4009FA07D /* Mulish-Italic.ttf */; };
+		F90B2E382B7426C4009FA07D /* Mulish-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F90B2E282B7426C4009FA07D /* Mulish-SemiBold.ttf */; };
+		F90B2E392B7426C4009FA07D /* Mulish-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F90B2E292B7426C4009FA07D /* Mulish-SemiBoldItalic.ttf */; };
+		F90B2E3A2B7426C4009FA07D /* Mulish-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F90B2E2A2B7426C4009FA07D /* Mulish-BlackItalic.ttf */; };
+		F90B2E3B2B7426C4009FA07D /* Mulish-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F90B2E2B2B7426C4009FA07D /* Mulish-ExtraLightItalic.ttf */; };
+		F90B2E3C2B7426C4009FA07D /* Mulish-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F90B2E2C2B7426C4009FA07D /* Mulish-Bold.ttf */; };
+		F90B2E3D2B7426C4009FA07D /* Mulish-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F90B2E2D2B7426C4009FA07D /* Mulish-ExtraBold.ttf */; };
+		F90B2E3E2B7426C4009FA07D /* Mulish-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F90B2E2E2B7426C4009FA07D /* Mulish-LightItalic.ttf */; };
+		F90B2E3F2B7426C4009FA07D /* Mulish-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F90B2E2F2B7426C4009FA07D /* Mulish-BoldItalic.ttf */; };
+		F90B2E402B7426C4009FA07D /* Mulish-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F90B2E302B7426C4009FA07D /* Mulish-ExtraBoldItalic.ttf */; };
+		F90B2E412B7426C4009FA07D /* Mulish-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F90B2E312B7426C4009FA07D /* Mulish-Medium.ttf */; };
+		F90B2E422B7426C4009FA07D /* Mulish-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F90B2E322B7426C4009FA07D /* Mulish-ExtraLight.ttf */; };
+		F90B2E432B7426C4009FA07D /* Mulish-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F90B2E332B7426C4009FA07D /* Mulish-MediumItalic.ttf */; };
+		F90B2E442B7426C4009FA07D /* Mulish-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F90B2E342B7426C4009FA07D /* Mulish-Black.ttf */; };
+		F90B2E452B7426C4009FA07D /* Mulish-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F90B2E352B7426C4009FA07D /* Mulish-Light.ttf */; };
+		F90B2E462B7426C4009FA07D /* Mulish-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F90B2E362B7426C4009FA07D /* Mulish-Regular.ttf */; };
+		F90B2E4A2B742BF9009FA07D /* CustomModalViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90B2E492B742BF9009FA07D /* CustomModalViewModel.swift */; };
+		F90B2E4D2B742CEE009FA07D /* RoundedCorners.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90B2E4C2B742CEE009FA07D /* RoundedCorners.swift */; };
+		F90B2E502B742E2C009FA07D /* CustomTextFieldViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90B2E4F2B742E2C009FA07D /* CustomTextFieldViewModel.swift */; };
 		F929A12E2B725FFD008C810C /* StatementUolApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F929A12D2B725FFD008C810C /* StatementUolApp.swift */; };
 		F929A1302B725FFD008C810C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F929A12F2B725FFD008C810C /* ContentView.swift */; };
 		F929A1322B725FFE008C810C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F929A1312B725FFE008C810C /* Assets.xcassets */; };
@@ -19,6 +40,27 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F90B2E232B7426A7009FA07D /* Mulish-VariableFont_wght.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mulish-VariableFont_wght.ttf"; sourceTree = "<group>"; };
+		F90B2E242B7426A7009FA07D /* Mulish-Italic-VariableFont_wght.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mulish-Italic-VariableFont_wght.ttf"; sourceTree = "<group>"; };
+		F90B2E272B7426C4009FA07D /* Mulish-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mulish-Italic.ttf"; sourceTree = "<group>"; };
+		F90B2E282B7426C4009FA07D /* Mulish-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mulish-SemiBold.ttf"; sourceTree = "<group>"; };
+		F90B2E292B7426C4009FA07D /* Mulish-SemiBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mulish-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		F90B2E2A2B7426C4009FA07D /* Mulish-BlackItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mulish-BlackItalic.ttf"; sourceTree = "<group>"; };
+		F90B2E2B2B7426C4009FA07D /* Mulish-ExtraLightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mulish-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
+		F90B2E2C2B7426C4009FA07D /* Mulish-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mulish-Bold.ttf"; sourceTree = "<group>"; };
+		F90B2E2D2B7426C4009FA07D /* Mulish-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mulish-ExtraBold.ttf"; sourceTree = "<group>"; };
+		F90B2E2E2B7426C4009FA07D /* Mulish-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mulish-LightItalic.ttf"; sourceTree = "<group>"; };
+		F90B2E2F2B7426C4009FA07D /* Mulish-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mulish-BoldItalic.ttf"; sourceTree = "<group>"; };
+		F90B2E302B7426C4009FA07D /* Mulish-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mulish-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
+		F90B2E312B7426C4009FA07D /* Mulish-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mulish-Medium.ttf"; sourceTree = "<group>"; };
+		F90B2E322B7426C4009FA07D /* Mulish-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mulish-ExtraLight.ttf"; sourceTree = "<group>"; };
+		F90B2E332B7426C4009FA07D /* Mulish-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mulish-MediumItalic.ttf"; sourceTree = "<group>"; };
+		F90B2E342B7426C4009FA07D /* Mulish-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mulish-Black.ttf"; sourceTree = "<group>"; };
+		F90B2E352B7426C4009FA07D /* Mulish-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mulish-Light.ttf"; sourceTree = "<group>"; };
+		F90B2E362B7426C4009FA07D /* Mulish-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mulish-Regular.ttf"; sourceTree = "<group>"; };
+		F90B2E492B742BF9009FA07D /* CustomModalViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomModalViewModel.swift; sourceTree = "<group>"; };
+		F90B2E4C2B742CEE009FA07D /* RoundedCorners.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedCorners.swift; sourceTree = "<group>"; };
+		F90B2E4F2B742E2C009FA07D /* CustomTextFieldViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextFieldViewModel.swift; sourceTree = "<group>"; };
 		F929A12A2B725FFD008C810C /* StatementUol.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StatementUol.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F929A12D2B725FFD008C810C /* StatementUolApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatementUolApp.swift; sourceTree = "<group>"; };
 		F929A12F2B725FFD008C810C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -42,6 +84,40 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		F90B2E4B2B742CAC009FA07D /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				F90B2E4C2B742CEE009FA07D /* RoundedCorners.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		F90B2E4E2B742D52009FA07D /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				F90B2E342B7426C4009FA07D /* Mulish-Black.ttf */,
+				F90B2E2A2B7426C4009FA07D /* Mulish-BlackItalic.ttf */,
+				F90B2E2C2B7426C4009FA07D /* Mulish-Bold.ttf */,
+				F90B2E2F2B7426C4009FA07D /* Mulish-BoldItalic.ttf */,
+				F90B2E2D2B7426C4009FA07D /* Mulish-ExtraBold.ttf */,
+				F90B2E302B7426C4009FA07D /* Mulish-ExtraBoldItalic.ttf */,
+				F90B2E332B7426C4009FA07D /* Mulish-MediumItalic.ttf */,
+				F90B2E362B7426C4009FA07D /* Mulish-Regular.ttf */,
+				F90B2E282B7426C4009FA07D /* Mulish-SemiBold.ttf */,
+				F90B2E292B7426C4009FA07D /* Mulish-SemiBoldItalic.ttf */,
+				F90B2E242B7426A7009FA07D /* Mulish-Italic-VariableFont_wght.ttf */,
+				F90B2E232B7426A7009FA07D /* Mulish-VariableFont_wght.ttf */,
+				F90B2E322B7426C4009FA07D /* Mulish-ExtraLight.ttf */,
+				F90B2E2B2B7426C4009FA07D /* Mulish-ExtraLightItalic.ttf */,
+				F90B2E272B7426C4009FA07D /* Mulish-Italic.ttf */,
+				F90B2E352B7426C4009FA07D /* Mulish-Light.ttf */,
+				F90B2E2E2B7426C4009FA07D /* Mulish-LightItalic.ttf */,
+				F90B2E312B7426C4009FA07D /* Mulish-Medium.ttf */,
+			);
+			name = Fonts;
+			path = ..;
+			sourceTree = "<group>";
+		};
 		F929A1212B725FFD008C810C = {
 			isa = PBXGroup;
 			children = (
@@ -61,6 +137,7 @@
 		F929A12C2B725FFD008C810C /* StatementUol */ = {
 			isa = PBXGroup;
 			children = (
+				F90B2E4E2B742D52009FA07D /* Fonts */,
 				F929A13B2B7261EE008C810C /* App */,
 				F929A12D2B725FFD008C810C /* StatementUolApp.swift */,
 				F929A1312B725FFE008C810C /* Assets.xcassets */,
@@ -80,6 +157,7 @@
 		F929A13B2B7261EE008C810C /* App */ = {
 			isa = PBXGroup;
 			children = (
+				F90B2E4B2B742CAC009FA07D /* Utils */,
 				F929A13D2B726206008C810C /* Models */,
 				F929A13C2B7261FD008C810C /* Views */,
 				F929A13E2B72625E008C810C /* ViewModels */,
@@ -108,6 +186,8 @@
 		F929A13E2B72625E008C810C /* ViewModels */ = {
 			isa = PBXGroup;
 			children = (
+				F90B2E492B742BF9009FA07D /* CustomModalViewModel.swift */,
+				F90B2E4F2B742E2C009FA07D /* CustomTextFieldViewModel.swift */,
 			);
 			path = ViewModels;
 			sourceTree = "<group>";
@@ -180,6 +260,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F90B2E372B7426C4009FA07D /* Mulish-Italic.ttf in Resources */,
+				F90B2E382B7426C4009FA07D /* Mulish-SemiBold.ttf in Resources */,
+				F90B2E392B7426C4009FA07D /* Mulish-SemiBoldItalic.ttf in Resources */,
+				F90B2E3A2B7426C4009FA07D /* Mulish-BlackItalic.ttf in Resources */,
+				F90B2E3B2B7426C4009FA07D /* Mulish-ExtraLightItalic.ttf in Resources */,
+				F90B2E3C2B7426C4009FA07D /* Mulish-Bold.ttf in Resources */,
+				F90B2E3D2B7426C4009FA07D /* Mulish-ExtraBold.ttf in Resources */,
+				F90B2E3E2B7426C4009FA07D /* Mulish-LightItalic.ttf in Resources */,
+				F90B2E3F2B7426C4009FA07D /* Mulish-BoldItalic.ttf in Resources */,
+				F90B2E402B7426C4009FA07D /* Mulish-ExtraBoldItalic.ttf in Resources */,
+				F90B2E412B7426C4009FA07D /* Mulish-Medium.ttf in Resources */,
+				F90B2E422B7426C4009FA07D /* Mulish-ExtraLight.ttf in Resources */,
+				F90B2E432B7426C4009FA07D /* Mulish-MediumItalic.ttf in Resources */,
+				F90B2E442B7426C4009FA07D /* Mulish-Black.ttf in Resources */,
+				F90B2E452B7426C4009FA07D /* Mulish-Light.ttf in Resources */,
+				F90B2E462B7426C4009FA07D /* Mulish-Regular.ttf in Resources */,
+				F90B2E252B7426A7009FA07D /* Mulish-VariableFont_wght.ttf in Resources */,
+				F90B2E262B7426A7009FA07D /* Mulish-Italic-VariableFont_wght.ttf in Resources */,
 				F929A1352B725FFE008C810C /* Preview Assets.xcassets in Resources */,
 				F929A1402B726400008C810C /* SplashScreen.storyboard in Resources */,
 				F929A1322B725FFE008C810C /* Assets.xcassets in Resources */,
@@ -196,9 +294,12 @@
 				F929A1492B72C7DC008C810C /* PrimaryButton.swift in Sources */,
 				F929A1452B727169008C810C /* CustomModal.swift in Sources */,
 				F929A1422B726C2B008C810C /* CreateAccountView.swift in Sources */,
+				F90B2E502B742E2C009FA07D /* CustomTextFieldViewModel.swift in Sources */,
 				F929A1302B725FFD008C810C /* ContentView.swift in Sources */,
+				F90B2E4D2B742CEE009FA07D /* RoundedCorners.swift in Sources */,
 				F929A12E2B725FFD008C810C /* StatementUolApp.swift in Sources */,
 				F929A1472B72C0CD008C810C /* CustomTextField.swift in Sources */,
+				F90B2E4A2B742BF9009FA07D /* CustomModalViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

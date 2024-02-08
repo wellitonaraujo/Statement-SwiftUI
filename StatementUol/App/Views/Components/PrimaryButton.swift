@@ -9,18 +9,19 @@ import SwiftUI
 
 struct PrimaryButton: View {
     var action: () -> Void
-        var title: String
+    var title: String
     
     var body: some View {
-        Button(action: action) {
-                   Text(title)
-                        .font(.system(size: 14, weight: .regular, design: .default))
-                       .foregroundColor(.black)
-                       .frame(maxWidth: .infinity, maxHeight: 40)
-                       .background(Color("PRIMARY"))
-                       .cornerRadius(4)
-               }
-        .padding(.vertical, 12)
+        VStack {
+            Button(action: action) {
+                Text(title)
+                    .font(.system(size: 14, weight: .regular, design: .default))
+                    .foregroundColor(.black)
+                    .frame(maxWidth: .infinity, maxHeight: 40)
+                    .background(Color("PRIMARY"))
+                    .cornerRadius(4)
+            }
+        }.padding(.top, 10)
     }
 }
 
