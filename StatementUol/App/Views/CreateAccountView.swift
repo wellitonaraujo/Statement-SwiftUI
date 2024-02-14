@@ -8,6 +8,9 @@
 import SwiftUI
 
 struct CreateAccountView: View {
+    @State private var isSignInModalVisible = false
+    @ObservedObject private var viewModel = CustomModalViewModel()
+    
     var body: some View {
         ZStack() {
             Color("BACKGROUND").ignoresSafeArea()
@@ -28,8 +31,12 @@ struct CreateAccountView: View {
                 
                 Text("Track your statement and account balance")
                     .font(.system(size: 16, weight: .regular, design: .default))
-               
-                CustomModal()
+                
+                if isSignInModalVisible {
+                    SignInModal()
+                } else {
+                    CustomModal(viewModel: CustomModalViewModel(), isSignInModalVisible: $isSignInModalVisible)
+                }
             }
         }
     }

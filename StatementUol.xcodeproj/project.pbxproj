@@ -37,6 +37,7 @@
 		F929A1452B727169008C810C /* CustomModal.swift in Sources */ = {isa = PBXBuildFile; fileRef = F929A1442B727169008C810C /* CustomModal.swift */; };
 		F929A1472B72C0CD008C810C /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = F929A1462B72C0CD008C810C /* CustomTextField.swift */; };
 		F929A1492B72C7DC008C810C /* PrimaryButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F929A1482B72C7DC008C810C /* PrimaryButton.swift */; };
+		F9F0DFDB2B7CFCBA0039ACE9 /* SignInModal.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9F0DFDA2B7CFCBA0039ACE9 /* SignInModal.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -71,6 +72,7 @@
 		F929A1442B727169008C810C /* CustomModal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomModal.swift; sourceTree = "<group>"; };
 		F929A1462B72C0CD008C810C /* CustomTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
 		F929A1482B72C7DC008C810C /* PrimaryButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrimaryButton.swift; sourceTree = "<group>"; };
+		F9F0DFDA2B7CFCBA0039ACE9 /* SignInModal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInModal.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -198,6 +200,7 @@
 				F929A1442B727169008C810C /* CustomModal.swift */,
 				F929A1462B72C0CD008C810C /* CustomTextField.swift */,
 				F929A1482B72C7DC008C810C /* PrimaryButton.swift */,
+				F9F0DFDA2B7CFCBA0039ACE9 /* SignInModal.swift */,
 			);
 			path = Components;
 			sourceTree = "<group>";
@@ -298,6 +301,7 @@
 				F929A1302B725FFD008C810C /* ContentView.swift in Sources */,
 				F90B2E4D2B742CEE009FA07D /* RoundedCorners.swift in Sources */,
 				F929A12E2B725FFD008C810C /* StatementUolApp.swift in Sources */,
+				F9F0DFDB2B7CFCBA0039ACE9 /* SignInModal.swift in Sources */,
 				F929A1472B72C0CD008C810C /* CustomTextField.swift in Sources */,
 				F90B2E4A2B742BF9009FA07D /* CustomModalViewModel.swift in Sources */,
 			);
